@@ -16,7 +16,7 @@
 	<input type = "checkbox" name = "item" value="모자" > 모자
 	<input type = "checkbox" name = "item" value="시계" > 시계
 	<input type = "checkbox" name = "item" value="쥬얼리" > 쥬얼리 <br>
-	<input type = "submit" value = "전송">
+	<input type = "submit" value = "전송!!">
 </form>
 </body>
 </html>
